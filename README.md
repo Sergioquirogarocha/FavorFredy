@@ -1,0 +1,1 @@
+Evertec.Automation.Net.CoreWalletClient
